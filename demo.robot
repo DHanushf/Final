@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${URL}    https://at.com
+${URL}    https://att.com
 ${BROWSER}    chrome
 
 *** Test Cases ***
