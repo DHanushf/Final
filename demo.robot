@@ -1,5 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary
+Library    RequestsLibrary    
 
 *** Variables ***
 ${URL}    https://att.com
